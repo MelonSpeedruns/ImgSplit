@@ -68,7 +68,7 @@ namespace ImgSplit
         private void button1_Click(object sender, EventArgs e)
         {
 
-            if (textBox3.Text != "" && textBox2.Text != "" && textBox1.Text != "" && int.Parse(textBox1.Text) > 1 && int.Parse(textBox2.Text) > 1) {
+            if (textBox3.Text != "" && textBox2.Text != "" && textBox1.Text != "" && int.Parse(textBox1.Text) > 0 && int.Parse(textBox2.Text) > 0) {
             List<Image> list = new List<Image>();
 
             Image img = new Bitmap(openFileDialog1.FileName);
