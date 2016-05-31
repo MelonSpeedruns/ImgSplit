@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\ImgSplit\ImgSplit\bin\Release\ImgSplit.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ImgSplit\ImgSplit\bin\Release\ImgSplit.exe
+c:\users\user\documents\visual studio 2015\Projects\ImgSplit\ImgSplit\bin\Release\ImgSplit.pdb
+c:\users\user\documents\visual studio 2015\Projects\ImgSplit\ImgSplit\obj\Release\ImgSplit.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ImgSplit\ImgSplit\obj\Release\ImgSplit.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ImgSplit\ImgSplit\obj\Release\ImgSplit.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ImgSplit\ImgSplit\obj\Release\ImgSplit.exe
+c:\users\user\documents\visual studio 2015\Projects\ImgSplit\ImgSplit\obj\Release\ImgSplit.pdb
